@@ -1,10 +1,9 @@
 # drecapp
+flutter 
 
-A new Flutter project.
+## Android - Native app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project  aims to levereage store keepers on the time they consume trackng record 
 
 A few resources to get you started if this is your first Flutter project:
 
