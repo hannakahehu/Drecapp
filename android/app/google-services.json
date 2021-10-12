@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011011384019",
+    "project_id": "drec-caa72",
+    "storage_bucket": "drec-caa72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011011384019:android:1cfa059e7b2c7a2b2e1a26",
+        "android_client_info": {
+          "package_name": "com.example.drecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011011384019-mtv1n92d05vqmvsu9e3gnnfv70ah3b5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drecapp",
+            "certificate_hash": "d877b7c3039258400d804d8fcb8c5e599f9fc828"
+          }
+        },
+        {
+          "client_id": "1011011384019-h9u1v6k1ag08ndgm2q5u92rchm9dii8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJ-LDktIS68fidmR_5XQVsn5jFZWvFWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011011384019-h9u1v6k1ag08ndgm2q5u92rchm9dii8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
